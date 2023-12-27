@@ -20,8 +20,9 @@ C++ compiler. I did this using Visual Studio 2022.
 ### Installation
 
 1. Clone the repo
-2. Compile and Run the program
-3. Follow the instructions on the screen
+2. Open with Visual Studio
+3. Compile and run the program
+4. Follow the instructions on the screen
 
 ## Usage
 
